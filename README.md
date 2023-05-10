@@ -1,5 +1,5 @@
 # Social Network Mining
-Project that explores various properties of social networks from [SNAP's Facebook dataset](http://snap.stanford.edu/data/egonets-Facebook.html) and the [Cora dataset](https://relational.fit.cvut.cz/dataset/CORA). Part of a group project for the Large Scale Social and Complex Networks: Design and Algorithms course at UCLA (Spring 2023). While this project was relatively simple, I managed to appreciate the extra R practice.
+Project that explores various properties of social networks from [SNAP's Facebook dataset](http://snap.stanford.edu/data/egonets-Facebook.html) and the [Cora dataset](https://relational.fit.cvut.cz/dataset/CORA). Part of a group project for the Large Scale Social and Complex Networks: Design and Algorithms course at UCLA (Spring 2023). While this project was relatively simple, I appreciated the extra R practice.
 
 ## Built With
 * R
